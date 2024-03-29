@@ -1,6 +1,7 @@
 
 # Handwritten Doctor notes Recognition Web App
  link source code and dataset : https://drive.google.com/drive/folders/1XyeTH7-3uAJS037UoIDvYKj3TNVx7DpV
+ 
  link : https:/https://yochi2545.github.io/MorYa/
 <br>
 <h3>Doctor Handwritten</h3>
